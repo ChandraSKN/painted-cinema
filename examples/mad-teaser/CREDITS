@@ -1,0 +1,8 @@
+MAD · Chapter 1 "My First Murder" — painted-cinema example teaser
+Story and characters: the MAD manuscript, by the repository author.
+Paintings (images/*.png): AI-generated with Canva's image generation from prompts written for this film.
+Soundtrack (soundtrack.m4a): original score made from CC0 samples (VS Chamber Orchestra: Community Edition and
+  Versilian Community Sample Library by Versilian Studios; FreePats project), synthesised foley,
+  and voices from Kokoro TTS (kokoro-onnx, Apache 2.0).
+Engine: painted-cinema (MIT).
+Fonts: Cormorant Garamond / Cormorant SC (OFL 1.1).

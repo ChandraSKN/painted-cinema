@@ -1,0 +1,19 @@
+{
+  "name": "painted-cinema",
+  "version": "0.1.0",
+  "description": "Turn a story into a short painterly animated film: generated paintings repainted as moving oil brush strokes, with camera moves, paint-over acting, light effects, subtitles and soundtrack.",
+  "author": {
+    "name": "Chandra Nadendla"
+  },
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "animation",
+    "film",
+    "painting",
+    "impasto",
+    "claude-skill"
+  ],
+  "homepage": "https://github.com/ChandraSKN/painted-cinema",
+  "repository": "https://github.com/ChandraSKN/painted-cinema"
+}
