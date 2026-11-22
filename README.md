@@ -2,9 +2,17 @@
 
 **Turn a story into a short painterly film with Claude.** One painting per shot, repainted every frame as moving oil brush strokes, with camera moves, paint-over "acting", light and dust, subtitles and a soundtrack.
 
+<p align="center"><img src="docs/paint-in.gif" width="300" alt="A painting being laid stroke by stroke"></p>
+
+<p align="center"><b><a href="https://github.com/ChandraSKN/painted-cinema/releases/latest">▶ Watch the 40-second demo film</a></b></p>
+
 ![Frames from the example teaser](docs/showcase.jpg)
 
-*Frames from [`examples/mad-teaser`](examples/mad-teaser): a 40-second vertical teaser for the mystery novel* MAD.
+*Frames from [`examples/mad-teaser`](examples/mad-teaser), a vertical teaser for the mystery novel* MAD.
+
+**From image to paint.** On the left is the generated painting; on the right, the same frame repainted by the engine:
+
+![Generated image vs painted frame](docs/before-after.jpg)
 
 ## How it works
 
